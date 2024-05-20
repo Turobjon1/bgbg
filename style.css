@@ -1,0 +1,11 @@
+.bg-green{
+    background-color: green;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.bg-red{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
